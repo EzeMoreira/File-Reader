@@ -1,0 +1,1 @@
+Hola, este es un repositorio público para la vista de este lector de archivos practicado con Javascript, mas adelante subiré el como leer, múltiples archivos y también lectura de imágenes y videos.
